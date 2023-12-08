@@ -1,3 +1,7 @@
 token.txt
 tests
 tests/*
+venv
+venv/*
+dist
+dist/*

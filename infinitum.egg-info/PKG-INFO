@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: infinitum
-Version: 0.0.5
-Summary: A package for making working with databases not suck
-Home-page: http://github.com/hochen97/infinitum
-Author: Jacob Hochendoner
-Author-email: hochen97@gmail.com
-License: MIT
-License-File: LICENSE
