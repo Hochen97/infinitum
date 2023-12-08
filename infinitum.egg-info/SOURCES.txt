@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+infinitum/__init__.py
+infinitum/main.py
+infinitum.egg-info/PKG-INFO
+infinitum.egg-info/SOURCES.txt
+infinitum.egg-info/dependency_links.txt
+infinitum.egg-info/not-zip-safe
+infinitum.egg-info/requires.txt
+infinitum.egg-info/top_level.txt
